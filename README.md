@@ -8,7 +8,7 @@ VectorX is a high-performance, lightweight GPU benchmarking tool built with **El
 
 * **Cross-Platform Logic:** Optimized for Linux and Windows.
 
-### [📥 Download Latest Release](https://github.com/AnandRiftYT/VectorX_Benchmarker/releases/latest)
+### [📥 Download Latest Release](https://github.com/Anand-Rift/VectorX_Benchmarker/releases/latest)
 
 
 ### If you are on ARCH Linux you Can use "**yay -S vectorx-bin**"  to install it and then type "**vectorx**" to run it.
