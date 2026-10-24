@@ -1,18 +1,18 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/AnandRiftYT/VectorX_Benchmarker?color=blue&label=Version)
 
 # VectorX_Benchmarker
-# 🚀 VectorX GPU Benchmark
+#  VectorX GPU Benchmark
 **Developed by Anand**
 
-VectorX is a high-performance, lightweight GPU benchmarking tool built with **Electron** and **WebGL**. Designed to push both legacy and modern CPU/GPU to their absolute limits, VectorXBenchmark specializes in "Hardware Handshaking" to extract maximum performance from CPU/GPU
+VectorXBenchmark is a simple electron benchmark app tuned to push both CPU and GPU to its limit that not even silverbench can..
 
 * **Cross-Platform Logic:** Optimized for Linux and Windows.
 
-### [📥 Download Latest Release](https://github.com/Anand-Rift/VectorX_Benchmarker/releases/latest)
+### [ Download Latest Release](https://github.com/Anand-Rift/VectorX_Benchmarker/releases/latest)
 
 
 ### If you are on ARCH Linux you Can use "**yay -S vectorx-bin**"  to install it and then type "**vectorx**" to run it.
 
-### 🛠️ Installation
+###  Installation
 1. Download the .zip file for your respective OS from **Releases** Folder 
 3. Extract the File and run VectorxBenchmark.
