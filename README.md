@@ -2,11 +2,11 @@
 
 # VectorX_Benchmarker
 #  VectorX GPU Benchmark
-**Developed by Anand**
+**Developed by Anand-Rift**
 
 VectorXBenchmark is a simple electron benchmark app tuned to push both CPU and GPU to its limit that not even silverbench can..
 
-* **Cross-Platform Logic:** Optimized for Linux and Windows.
+Optimized for Linux and Windows as of me...
 
 ### [ Download Latest Release](https://github.com/Anand-Rift/VectorX_Benchmarker/releases/latest)
 
